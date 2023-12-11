@@ -1,6 +1,5 @@
 # chiomaemeakama.github.io
 
 ```
-A completely different Repository;
-strictly for word guesses and games
+Welcome to my GITHUB Portfolio...
 ```
